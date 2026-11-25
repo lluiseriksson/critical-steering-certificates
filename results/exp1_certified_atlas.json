@@ -1,0 +1,148 @@
+{
+  "experiment": "exp1_certified_atlas",
+  "num_certificates": 14,
+  "all_verified": true,
+  "max_verify_ms": 489.034,
+  "certificates": [
+    {
+      "cert_id": "witness_m2_square_v71",
+      "mode": "finite_m_steering_witness",
+      "verdict": "CERTIFIED_STEERABLE",
+      "visibility_v": "71/100",
+      "visibility_float": 0.71,
+      "m_settings": 2,
+      "verify_ms": 1.498,
+      "verified": true
+    },
+    {
+      "cert_id": "witness_m3_octahedron_v58",
+      "mode": "finite_m_steering_witness",
+      "verdict": "CERTIFIED_STEERABLE",
+      "visibility_v": "29/50",
+      "visibility_float": 0.58,
+      "m_settings": 3,
+      "verify_ms": 0.296,
+      "verified": true
+    },
+    {
+      "cert_id": "witness_m6_cuboctahedron_v53",
+      "mode": "finite_m_steering_witness",
+      "verdict": "CERTIFIED_STEERABLE",
+      "visibility_v": "53/100",
+      "visibility_float": 0.53,
+      "m_settings": 6,
+      "verify_ms": 0.975,
+      "verified": true
+    },
+    {
+      "cert_id": "witness_m12_pyth221_v56",
+      "mode": "finite_m_steering_witness",
+      "verdict": "CERTIFIED_STEERABLE",
+      "visibility_v": "14/25",
+      "visibility_float": 0.56,
+      "m_settings": 12,
+      "verify_ms": 50.519,
+      "verified": true
+    },
+    {
+      "cert_id": "witness_m15_oct_pyth221_v52",
+      "mode": "finite_m_steering_witness",
+      "verdict": "CERTIFIED_STEERABLE",
+      "visibility_v": "13/25",
+      "visibility_float": 0.52,
+      "m_settings": 15,
+      "verify_ms": 489.034,
+      "verified": true
+    },
+    {
+      "cert_id": "lhs_m2_square_v70",
+      "mode": "finite_m_lhs_model",
+      "verdict": "CERTIFIED_UNSTEERABLE_LHS",
+      "visibility_v": "7/10",
+      "visibility_float": 0.7,
+      "m_settings": 2,
+      "verify_ms": 0.356,
+      "verified": true
+    },
+    {
+      "cert_id": "lhs_m3_octahedron_v57",
+      "mode": "finite_m_lhs_model",
+      "verdict": "CERTIFIED_UNSTEERABLE_LHS",
+      "visibility_v": "57/100",
+      "visibility_float": 0.57,
+      "m_settings": 3,
+      "verify_ms": 0.641,
+      "verified": true
+    },
+    {
+      "cert_id": "lhs_m4_cube_diag_v57",
+      "mode": "finite_m_lhs_model",
+      "verdict": "CERTIFIED_UNSTEERABLE_LHS",
+      "visibility_v": "57/100",
+      "visibility_float": 0.57,
+      "m_settings": 4,
+      "verify_ms": 0.464,
+      "verified": true
+    },
+    {
+      "cert_id": "lhs_m6_cuboctahedron_v525",
+      "mode": "finite_m_lhs_model",
+      "verdict": "CERTIFIED_UNSTEERABLE_LHS",
+      "visibility_v": "21/40",
+      "visibility_float": 0.525,
+      "m_settings": 6,
+      "verify_ms": 1.74,
+      "verified": true
+    },
+    {
+      "cert_id": "univ_gap_m3_v4_7",
+      "mode": "universal_finite_m_gap",
+      "verdict": "CERTIFIED_UNIVERSAL_FINITE_M_UNSTEERABLE",
+      "visibility_v": "4/7",
+      "visibility_float": 0.5714285714285714,
+      "m_settings": 3,
+      "verify_ms": 0.117,
+      "verified": true
+    },
+    {
+      "cert_id": "univ_gap_m6_v16_31",
+      "mode": "universal_finite_m_gap",
+      "verdict": "CERTIFIED_UNIVERSAL_FINITE_M_UNSTEERABLE",
+      "visibility_v": "16/31",
+      "visibility_float": 0.5161290322580645,
+      "m_settings": 6,
+      "verify_ms": 0.164,
+      "verified": true
+    },
+    {
+      "cert_id": "univ_gap_m100_v4951_9901",
+      "mode": "universal_finite_m_gap",
+      "verdict": "CERTIFIED_UNIVERSAL_FINITE_M_UNSTEERABLE",
+      "visibility_v": "4951/9901",
+      "visibility_float": 0.5000504999495,
+      "m_settings": 100,
+      "verify_ms": 0.104,
+      "verified": true
+    },
+    {
+      "cert_id": "superact_two_copy_v_half",
+      "mode": "two_copy_superactivation",
+      "verdict": "CERTIFIED_TWO_COPY_SUPERACTIVATED_SEPARABLE_CONDITIONALS",
+      "visibility_v": "1/2",
+      "visibility_float": 0.5,
+      "m_settings": null,
+      "verify_ms": 0.232,
+      "verified": true
+    },
+    {
+      "cert_id": "superact_two_copy_below_half",
+      "mode": "two_copy_superactivation",
+      "verdict": "CERTIFIED_TWO_COPY_SUPERACTIVATED_SEPARABLE_CONDITIONALS",
+      "visibility_v": "49999/100000",
+      "visibility_float": 0.49999,
+      "m_settings": null,
+      "verify_ms": 0.181,
+      "verified": true
+    }
+  ]
+}

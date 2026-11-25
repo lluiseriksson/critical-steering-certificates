@@ -1,0 +1,6 @@
+name = "CriticalSteering"
+version = "0.1.0"
+defaultTargets = ["CriticalSteering"]
+
+[[lean_lib]]
+name = "CriticalSteering"

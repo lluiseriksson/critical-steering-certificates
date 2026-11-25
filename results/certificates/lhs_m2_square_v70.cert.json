@@ -1,0 +1,71 @@
+{
+  "schema_version": "EPR-STEER-CERT-1.0",
+  "cert_id": "lhs_m2_square_v70",
+  "mode": "finite_m_lhs_model",
+  "verdict": "CERTIFIED_UNSTEERABLE_LHS",
+  "m_settings": 2,
+  "visibility_v": "7/10",
+  "u_norm_sq": "1",
+  "w_vectors": [
+    [
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "0"
+    ]
+  ],
+  "lhs_states": [
+    {
+      "weight_p": "1/4",
+      "signs_a": [
+        -1,
+        -1
+      ],
+      "bloch_b": [
+        "-7/10",
+        "-7/10",
+        "0"
+      ]
+    },
+    {
+      "weight_p": "1/4",
+      "signs_a": [
+        -1,
+        1
+      ],
+      "bloch_b": [
+        "-7/10",
+        "7/10",
+        "0"
+      ]
+    },
+    {
+      "weight_p": "1/4",
+      "signs_a": [
+        1,
+        -1
+      ],
+      "bloch_b": [
+        "7/10",
+        "-7/10",
+        "0"
+      ]
+    },
+    {
+      "weight_p": "1/4",
+      "signs_a": [
+        1,
+        1
+      ],
+      "bloch_b": [
+        "7/10",
+        "7/10",
+        "0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "experiment": "exp2_polytope_ladder_and_universal_gap",
+  "polytopes": [
+    {
+      "family": "m2_square",
+      "m": 2,
+      "exact_v_crit_sq": "1/2",
+      "v_crit_float": 0.7071067811865476,
+      "gap_above_half": 0.20710678118654757,
+      "universal_bound_q": "2/3",
+      "universal_bound_float": 0.6666666666666666,
+      "universal_gap": 0.16666666666666663,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m3_octahedron",
+      "m": 3,
+      "exact_v_crit_sq": "1/3",
+      "v_crit_float": 0.5773502691896257,
+      "gap_above_half": 0.07735026918962573,
+      "universal_bound_q": "4/7",
+      "universal_bound_float": 0.5714285714285714,
+      "universal_gap": 0.0714285714285714,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m4_cube_diagonals",
+      "m": 4,
+      "exact_v_crit_sq": "1/3",
+      "v_crit_float": 0.5773502691896257,
+      "gap_above_half": 0.07735026918962573,
+      "universal_bound_q": "7/13",
+      "universal_bound_float": 0.5384615384615384,
+      "universal_gap": 0.038461538461538436,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m6_cuboctahedron",
+      "m": 6,
+      "exact_v_crit_sq": "5/18",
+      "v_crit_float": 0.5270462766947299,
+      "gap_above_half": 0.02704627669472992,
+      "universal_bound_q": "16/31",
+      "universal_bound_float": 0.5161290322580645,
+      "universal_gap": 0.016129032258064502,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m6_icosahedron_platonic",
+      "m": 6,
+      "exact_v_crit_sq": "(3+sqrt(5))/18",
+      "v_crit_float": 0.5393446629166316,
+      "gap_above_half": 0.039344662916631634,
+      "universal_bound_q": "16/31",
+      "universal_bound_float": 0.5161290322580645,
+      "universal_gap": 0.016129032258064502,
+      "is_rational_exact": false
+    },
+    {
+      "family": "m7_oct_plus_cube_pyth",
+      "m": 7,
+      "exact_v_crit_sq": "139/441",
+      "v_crit_float": 0.561420291550076,
+      "gap_above_half": 0.061420291550076,
+      "universal_bound_q": "22/43",
+      "universal_bound_float": 0.5116279069767442,
+      "universal_gap": 0.011627906976744207,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m10_dodecahedron_platonic",
+      "m": 10,
+      "exact_v_crit_sq": "(7+3*sqrt(5))/50",
+      "v_crit_float": 0.5236067977499791,
+      "gap_above_half": 0.02360679774997909,
+      "universal_bound_q": "46/91",
+      "universal_bound_float": 0.5054945054945055,
+      "universal_gap": 0.005494505494505475,
+      "is_rational_exact": false
+    },
+    {
+      "family": "m12_pythagorean_221",
+      "m": 12,
+      "exact_v_crit_sq": "25/81",
+      "v_crit_float": 0.5555555555555556,
+      "gap_above_half": 0.05555555555555558,
+      "universal_bound_q": "67/133",
+      "universal_bound_float": 0.5037593984962406,
+      "universal_gap": 0.003759398496240629,
+      "is_rational_exact": true
+    },
+    {
+      "family": "m15_oct_plus_pyth221",
+      "m": 15,
+      "exact_v_crit_sq": "547/2025",
+      "v_crit_float": 0.5197340250456222,
+      "gap_above_half": 0.01973402504562216,
+      "universal_bound_q": "106/211",
+      "universal_bound_float": 0.5023696682464455,
+      "universal_gap": 0.0023696682464454666,
+      "is_rational_exact": true
+    }
+  ],
+  "universal_curve": [
+    {
+      "m": 1,
+      "max_regions": 2,
+      "universal_bound_q": "1",
+      "universal_bound_float": 1.0,
+      "gap_above_half": 0.5
+    },
+    {
+      "m": 2,
+      "max_regions": 4,
+      "universal_bound_q": "2/3",
+      "universal_bound_float": 0.6666666666666666,
+      "gap_above_half": 0.16666666666666663
+    },
+    {
+      "m": 3,
+      "max_regions": 8,
+      "universal_bound_q": "4/7",
+      "universal_bound_float": 0.5714285714285714,
+      "gap_above_half": 0.0714285714285714
+    },
+    {
+      "m": 4,
+      "max_regions": 14,
+      "universal_bound_q": "7/13",
+      "universal_bound_float": 0.5384615384615384,
+      "gap_above_half": 0.038461538461538436
+    },
+    {
+      "m": 6,
+      "max_regions": 32,
+      "universal_bound_q": "16/31",
+      "universal_bound_float": 0.5161290322580645,
+      "gap_above_half": 0.016129032258064502
+    },
+    {
+      "m": 8,
+      "max_regions": 58,
+      "universal_bound_q": "29/57",
+      "universal_bound_float": 0.5087719298245614,
+      "gap_above_half": 0.00877192982456143
+    },
+    {
+      "m": 10,
+      "max_regions": 92,
+      "universal_bound_q": "46/91",
+      "universal_bound_float": 0.5054945054945055,
+      "gap_above_half": 0.005494505494505475
+    },
+    {
+      "m": 12,
+      "max_regions": 134,
+      "universal_bound_q": "67/133",
+      "universal_bound_float": 0.5037593984962406,
+      "gap_above_half": 0.003759398496240629
+    },
+    {
+      "m": 15,
+      "max_regions": 212,
+      "universal_bound_q": "106/211",
+      "universal_bound_float": 0.5023696682464455,
+      "gap_above_half": 0.0023696682464454666
+    },
+    {
+      "m": 20,
+      "max_regions": 382,
+      "universal_bound_q": "191/381",
+      "universal_bound_float": 0.5013123359580053,
+      "gap_above_half": 0.001312335958005284
+    },
+    {
+      "m": 30,
+      "max_regions": 872,
+      "universal_bound_q": "436/871",
+      "universal_bound_float": 0.5005740528128588,
+      "gap_above_half": 0.0005740528128588274
+    },
+    {
+      "m": 50,
+      "max_regions": 2452,
+      "universal_bound_q": "1226/2451",
+      "universal_bound_float": 0.5002039983680131,
+      "gap_above_half": 0.000203998368013103
+    },
+    {
+      "m": 100,
+      "max_regions": 9902,
+      "universal_bound_q": "4951/9901",
+      "universal_bound_float": 0.5000504999495,
+      "gap_above_half": 5.0499949500015795e-05
+    }
+  ]
+}

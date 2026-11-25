@@ -1,0 +1,36 @@
+{
+  "schema_version": "EPR-STEER-CERT-1.0",
+  "cert_id": "witness_m2_square_v71",
+  "mode": "finite_m_steering_witness",
+  "verdict": "CERTIFIED_STEERABLE",
+  "m_settings": 2,
+  "visibility_v": "71/100",
+  "u_norm_sq": "1",
+  "w_vectors": [
+    [
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "0"
+    ]
+  ],
+  "f_vectors": [
+    [
+      "1",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1",
+      "0"
+    ]
+  ],
+  "quantum_score_sq": "5041/2500",
+  "lhs_bound_sq": "2",
+  "critical_v_sq": "1/2"
+}

@@ -1,0 +1,20 @@
+import CriticalSteering
+
+#print axioms CriticalSteering.great_circle_regions_closed_form
+#print axioms CriticalSteering.cap_centroid_area_identity
+#print axioms CriticalSteering.discrete_cauchy_schwarz_nonneg
+#print axioms CriticalSteering.universal_finite_m_gap_bound
+#print axioms CriticalSteering.finite_m_gap_strictly_above_half
+#print axioms CriticalSteering.finite_m_gap_monotone
+#print axioms CriticalSteering.finite_m_single_setting_exact_one
+#print axioms CriticalSteering.cuboctahedron_beats_icosahedron
+#print axioms CriticalSteering.bell_sign_parity_odd_neg
+#print axioms CriticalSteering.bell_sign_parity_even_neg
+#print axioms CriticalSteering.sos_poly_256_minus_3125_identity
+#print axioms CriticalSteering.sos_cubic_factor_strictly_pos
+#print axioms CriticalSteering.sos_min_lower_bound_cleared
+#print axioms CriticalSteering.zero_sum_four_cauchy_schwarz
+#print axioms CriticalSteering.bell_four_squares_identity
+#print axioms CriticalSteering.rigidity_envelope_rational_upper
+#print axioms CriticalSteering.two_copy_superactivation_at_and_below_half
+#print axioms CriticalSteering.ppt_conditional_separability_and_witness_duality

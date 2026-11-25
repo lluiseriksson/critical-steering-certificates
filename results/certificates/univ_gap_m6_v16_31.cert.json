@@ -1,0 +1,10 @@
+{
+  "schema_version": "EPR-STEER-CERT-1.0",
+  "cert_id": "univ_gap_m6_v16_31",
+  "mode": "universal_finite_m_gap",
+  "verdict": "CERTIFIED_UNIVERSAL_FINITE_M_UNSTEERABLE",
+  "m_settings": 6,
+  "visibility_v": "16/31",
+  "max_regions": 32,
+  "universal_bound_v": "16/31"
+}

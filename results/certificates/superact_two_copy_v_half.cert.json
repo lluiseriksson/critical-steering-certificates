@@ -1,0 +1,14 @@
+{
+  "schema_version": "EPR-STEER-CERT-1.0",
+  "cert_id": "superact_two_copy_v_half",
+  "mode": "two_copy_superactivation",
+  "verdict": "CERTIFIED_TWO_COPY_SUPERACTIVATED_SEPARABLE_CONDITIONALS",
+  "visibility_v": "1/2",
+  "rigidity_gamma": "114",
+  "bell_joint_lhs_ub": "5167/7056",
+  "quantum_score_q": "459/4",
+  "lhs_upper_bound": "15382645/134064",
+  "superactivation_margin": "1199/134064",
+  "ppt_min_eig_at_full_bell": "1/16",
+  "single_copy_pvm_unsteerable": 1
+}
